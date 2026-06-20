@@ -85,7 +85,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  background-color: #1c2326;
+  background-color: #e8ecee;
   text-align: center;
   padding: 15px;
 
@@ -95,7 +95,6 @@ body {
 .title-block h1 {
   font-size: 1.6rem;
   font-weight: 700;
-
   color: #ffffff;
   letter-spacing: -0.3px;
   line-height: 1.2;
